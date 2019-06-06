@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dagger</string>
+
+    <string name="horse_power">horse power</string>
+
+    <string name="engine_capacity">engine capacity</string>
+</resources>
